@@ -1,0 +1,148 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"44937"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:17:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/css/site.tccx7uey2p.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tccx7uey2p"},{"Name":"integrity","Value":"sha256-M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"44937"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:17:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/academy-hero.9wp43mqlhf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\academy-hero.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9wp43mqlhf"},{"Name":"integrity","Value":"sha256-GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/academy-hero.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"167929"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/academy-hero.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\academy-hero.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"167929"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-beginner.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-beginner.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1587354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-beginner.ug1sb1rlsd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-beginner.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ug1sb1rlsd"},{"Name":"integrity","Value":"sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/course-beginner.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1587354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-business.1naf9x8ekr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-business.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1naf9x8ekr"},{"Name":"integrity","Value":"sha256-nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/course-business.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155964"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-business.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-business.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"155964"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:03 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-speaking.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-speaking.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rbT7LqZyX7GBdlWH6jZ\u002B504gg/7V6I3pXdKz2jKjooc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"101964"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rbT7LqZyX7GBdlWH6jZ\u002B504gg/7V6I3pXdKz2jKjooc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/course-speaking.nbj2tkbz6q.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\course-speaking.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nbj2tkbz6q"},{"Name":"integrity","Value":"sha256-rbT7LqZyX7GBdlWH6jZ\u002B504gg/7V6I3pXdKz2jKjooc="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/course-speaking.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101964"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rbT7LqZyX7GBdlWH6jZ\u002B504gg/7V6I3pXdKz2jKjooc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/hero-academy.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\hero-academy.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kL\u002BcDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"48170"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kL\u002BcDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:02:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/hero-academy.kjrks72h0b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\hero-academy.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kjrks72h0b"},{"Name":"integrity","Value":"sha256-kL\u002BcDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/hero-academy.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"48170"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022kL\u002BcDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:02:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag6.as9qsfe0ig.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"as9qsfe0ig"},{"Name":"integrity","Value":"sha256-9jNb7epHcwmDza\u002BhMC9pdROqctws7RDOQB5joznMSDQ="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/imag6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"924523"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229jNb7epHcwmDza\u002BhMC9pdROqctws7RDOQB5joznMSDQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9jNb7epHcwmDza\u002BhMC9pdROqctws7RDOQB5joznMSDQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"924523"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229jNb7epHcwmDza\u002BhMC9pdROqctws7RDOQB5joznMSDQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag7.aqief32g2h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag7.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"aqief32g2h"},{"Name":"integrity","Value":"sha256-ri4dm\u002BlZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/imag7.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"115083"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ri4dm\u002BlZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag7.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ri4dm\u002BlZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"115083"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ri4dm\u002BlZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag8.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1587354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag8.ug1sb1rlsd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag8.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ug1sb1rlsd"},{"Name":"integrity","Value":"sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/imag8.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1587354"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:03:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53001"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 03:01:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/image/imag9.kzpfb8wkgc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\image\imag9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kzpfb8wkgc"},{"Name":"integrity","Value":"sha256-UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/image/imag9.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53001"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 03:01:46 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"47531"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 05:33:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/index.rwfpqo5vcw.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rwfpqo5vcw"},{"Name":"integrity","Value":"sha256-NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"47531"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 05:33:31 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/js/site.ce4docb6w5.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ce4docb6w5"},{"Name":"integrity","Value":"sha256-fLAgwOMh/\u002BDlpMyi0AD1zfyprHJYU89BP9paw8ttwoc="},{"Name":"label","Value":"_content/OnlineEnglishAcademy/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8267"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fLAgwOMh/\u002BDlpMyi0AD1zfyprHJYU89BP9paw8ttwoc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:14:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/OnlineEnglishAcademy/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fLAgwOMh/\u002BDlpMyi0AD1zfyprHJYU89BP9paw8ttwoc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8267"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022fLAgwOMh/\u002BDlpMyi0AD1zfyprHJYU89BP9paw8ttwoc=\u0022"},{"Name":"Last-Modified","Value":"Tue, 11 Aug 2026 01:14:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

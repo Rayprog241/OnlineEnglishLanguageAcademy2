@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\academy-hero.jpg",
+      "PackagePath": "staticwebassets\\image\\academy-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-beginner.jpg",
+      "PackagePath": "staticwebassets\\image\\course-beginner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-business.jpg",
+      "PackagePath": "staticwebassets\\image\\course-business.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-speaking.jpg",
+      "PackagePath": "staticwebassets\\image\\course-speaking.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\hero-academy.jpg",
+      "PackagePath": "staticwebassets\\image\\hero-academy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag6.jpg",
+      "PackagePath": "staticwebassets\\image\\imag6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag7.jpg",
+      "PackagePath": "staticwebassets\\image\\imag7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag8.jpg",
+      "PackagePath": "staticwebassets\\image\\imag8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag9.jpg",
+      "PackagePath": "staticwebassets\\image\\imag9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineEnglishAcademy.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OnlineEnglishAcademy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OnlineEnglishAcademy.props",
+      "PackagePath": "build\\OnlineEnglishAcademy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OnlineEnglishAcademy.props",
+      "PackagePath": "buildMultiTargeting\\OnlineEnglishAcademy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OnlineEnglishAcademy.props",
+      "PackagePath": "buildTransitive\\OnlineEnglishAcademy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

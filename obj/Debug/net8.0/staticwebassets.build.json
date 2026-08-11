@@ -1,0 +1,1258 @@
+{
+  "Version": 1,
+  "Hash": "rq/tbqK3Z+BGF3V9vBOSuSyUEMcWbKjxEfuxnsV4T5M=",
+  "Source": "OnlineEnglishAcademy",
+  "BasePath": "_content/OnlineEnglishAcademy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OnlineEnglishAcademy\\wwwroot",
+      "Source": "OnlineEnglishAcademy",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\css\\site.css",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tccx7uey2p",
+      "Integrity": "M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\academy-hero.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/academy-hero#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9wp43mqlhf",
+      "Integrity": "GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\academy-hero.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-beginner.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/course-beginner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ug1sb1rlsd",
+      "Integrity": "bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\course-beginner.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-business.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/course-business#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1naf9x8ekr",
+      "Integrity": "nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\course-business.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-speaking.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/course-speaking#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbj2tkbz6q",
+      "Integrity": "rbT7LqZyX7GBdlWH6jZ+504gg/7V6I3pXdKz2jKjooc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\course-speaking.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\hero-academy.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/hero-academy#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kjrks72h0b",
+      "Integrity": "kL+cDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\hero-academy.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag6.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/imag6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "as9qsfe0ig",
+      "Integrity": "9jNb7epHcwmDza+hMC9pdROqctws7RDOQB5joznMSDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\imag6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag7.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/imag7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "aqief32g2h",
+      "Integrity": "ri4dm+lZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\imag7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag8.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/imag8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ug1sb1rlsd",
+      "Integrity": "bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\imag8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag9.jpg",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "image/imag9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kzpfb8wkgc",
+      "Integrity": "UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image\\imag9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\index.html",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rwfpqo5vcw",
+      "Integrity": "NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\js\\site.js",
+      "SourceId": "OnlineEnglishAcademy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\",
+      "BasePath": "_content/OnlineEnglishAcademy",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ce4docb6w5",
+      "Integrity": "fLAgwOMh/+DlpMyi0AD1zfyprHJYU89BP9paw8ttwoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.tccx7uey2p.css",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "44937"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:17:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tccx7uey2p"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-M0QYsOjxsJn596nb/r7ixcJWb2XwDWSnHnBK7FEg4cw="
+        }
+      ]
+    },
+    {
+      "Route": "image/academy-hero.9wp43mqlhf.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\academy-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9wp43mqlhf"
+        },
+        {
+          "Name": "label",
+          "Value": "image/academy-hero.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE="
+        }
+      ]
+    },
+    {
+      "Route": "image/academy-hero.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\academy-hero.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167929"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GTeqcHqtILcidHlrXjxqGq/KJduTJfMxK6CAt96UkhE="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-beginner.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-beginner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-beginner.ug1sb1rlsd.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-beginner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ug1sb1rlsd"
+        },
+        {
+          "Name": "label",
+          "Value": "image/course-beginner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-business.1naf9x8ekr.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-business.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1naf9x8ekr"
+        },
+        {
+          "Name": "label",
+          "Value": "image/course-business.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-business.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-business.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nbAAiyAqo4pyMMWwzimLSvIuEpUaqlOxP0GKYT9jGVI="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-speaking.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-speaking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rbT7LqZyX7GBdlWH6jZ+504gg/7V6I3pXdKz2jKjooc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rbT7LqZyX7GBdlWH6jZ+504gg/7V6I3pXdKz2jKjooc="
+        }
+      ]
+    },
+    {
+      "Route": "image/course-speaking.nbj2tkbz6q.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\course-speaking.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101964"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rbT7LqZyX7GBdlWH6jZ+504gg/7V6I3pXdKz2jKjooc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbj2tkbz6q"
+        },
+        {
+          "Name": "label",
+          "Value": "image/course-speaking.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rbT7LqZyX7GBdlWH6jZ+504gg/7V6I3pXdKz2jKjooc="
+        }
+      ]
+    },
+    {
+      "Route": "image/hero-academy.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\hero-academy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kL+cDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kL+cDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534="
+        }
+      ]
+    },
+    {
+      "Route": "image/hero-academy.kjrks72h0b.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\hero-academy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48170"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kL+cDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:02:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kjrks72h0b"
+        },
+        {
+          "Name": "label",
+          "Value": "image/hero-academy.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kL+cDBY6dIqPnLJwn4ZhlDVftRfVgpZLJwar0fKT534="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag6.as9qsfe0ig.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "924523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jNb7epHcwmDza+hMC9pdROqctws7RDOQB5joznMSDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "as9qsfe0ig"
+        },
+        {
+          "Name": "label",
+          "Value": "image/imag6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jNb7epHcwmDza+hMC9pdROqctws7RDOQB5joznMSDQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag6.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "924523"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9jNb7epHcwmDza+hMC9pdROqctws7RDOQB5joznMSDQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9jNb7epHcwmDza+hMC9pdROqctws7RDOQB5joznMSDQ="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag7.aqief32g2h.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ri4dm+lZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "aqief32g2h"
+        },
+        {
+          "Name": "label",
+          "Value": "image/imag7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ri4dm+lZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag7.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "115083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ri4dm+lZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ri4dm+lZvoKjZJYIlxGqurWw9R78LFALMNAAfYNSdik="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag8.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag8.ug1sb1rlsd.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1587354"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:03:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ug1sb1rlsd"
+        },
+        {
+          "Name": "label",
+          "Value": "image/imag8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bnWqWliBNLo/qeh2fS4BPjXPcHct4c3o6feD7eXPWv4="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag9.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 03:01:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8="
+        }
+      ]
+    },
+    {
+      "Route": "image/imag9.kzpfb8wkgc.jpg",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\image\\imag9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "53001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 03:01:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kzpfb8wkgc"
+        },
+        {
+          "Name": "label",
+          "Value": "image/imag9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UDx5KijNZco8EqTSDyrDJyFQjO4KgqccW88nyl1GtA8="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 05:33:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs="
+        }
+      ]
+    },
+    {
+      "Route": "index.rwfpqo5vcw.html",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47531"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 05:33:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rwfpqo5vcw"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NRkzzcUBflOgYIGAWhqDA2lM4N3c4Fhf6QJzEafACOs="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.ce4docb6w5.js",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLAgwOMh/+DlpMyi0AD1zfyprHJYU89BP9paw8ttwoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ce4docb6w5"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLAgwOMh/+DlpMyi0AD1zfyprHJYU89BP9paw8ttwoc="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\test\\Desktop\\Online Academy\\OnlineEnglishAcademy\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8267"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fLAgwOMh/+DlpMyi0AD1zfyprHJYU89BP9paw8ttwoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Aug 2026 01:14:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fLAgwOMh/+DlpMyi0AD1zfyprHJYU89BP9paw8ttwoc="
+        }
+      ]
+    }
+  ]
+}
